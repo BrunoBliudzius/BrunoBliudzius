@@ -21,4 +21,3 @@ Atualmente focado em aprofundar meus conhecimentos no ecossistema .NET (C# e ASP
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)
