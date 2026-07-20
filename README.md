@@ -8,7 +8,7 @@ Passionate about backend engineering, database design, Linux, and automation. I 
 - Database-driven applications
 - Internal management systems
 - Python utilities and scripts
-- 
+
 ## Tech Stack
 
 ### Languages
@@ -32,7 +32,7 @@ Passionate about backend engineering, database design, Linux, and automation. I 
 - Designing relational databases
 - Writing clean and testable Python code
 - Building production-ready backend systems
-- 
+  
 ## Featured Projects
 - 
 
