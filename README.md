@@ -1,7 +1,14 @@
-Python Backend Developer focused on building reliable, maintainable, and scalable applications.
+Backend Developer specializing in Python, focused on building reliable, maintainable, and scalable software.
 
-I'm passionate about software engineering, databases, Linux, and automation. Currently expanding my knowledge in backend development, distributed systems, and cloud technologies.
+Passionate about backend engineering, database design, Linux, and automation. I enjoy solving real-world problems through clean architecture and well-structured code.
 
+## What I Build
+- REST APIs
+- Business automation tools
+- Database-driven applications
+- Internal management systems
+- Python utilities and scripts
+- 
 ## Tech Stack
 
 ### Languages
@@ -24,19 +31,19 @@ I'm passionate about software engineering, databases, Linux, and automation. Cur
 - Building production-quality backend projects
 - Designing relational databases
 - Writing clean and testable Python code
-- Expanding my backend development skills
-
+- Building production-ready backend systems
+- 
 ## Featured Projects
 - 
 
-## Currently Learning
+## Exploring
 
 - Docker
 - CI/CD
 - Advanced PostgreSQL
 - System Design
 
-## Connect with me
+## Connect
 
-- LinkedIn: https://www.linkedin.com/in/bruno-bliudzius/
+- [LinkedIn](https://www.linkedin.com/in/bruno-bliudzius/)
 - Email: brunosilvabliu@gmail.com
