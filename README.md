@@ -24,5 +24,5 @@ Learn more about software architecture and scalable systems
 Build practical and well-structured backend projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrunoBliudzius/BrunoBliudzius/gh-pages/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/BrunoBliudzius/BrunoBliudzius/gh-pages/github-snake.svg" alt="GitHub Contribution Snake">
 </p>
