@@ -23,6 +23,8 @@ understanding of Data Structures & Algorithms
 Learn more about software architecture and scalable systems
 Build practical and well-structured backend projects
 
+## 👾 Contribution Graph
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoBliudzius/BrunoBliudzius/gh-pages/github-snake-dark.svg">
