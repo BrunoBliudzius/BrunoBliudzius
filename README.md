@@ -22,3 +22,7 @@ Deepen my knowledge of PostgreSQL and database design
 understanding of Data Structures & Algorithms
 Learn more about software architecture and scalable systems
 Build practical and well-structured backend projects
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/BrunoBliudzius/output/github-contribution-grid-snake.svg">
+</p>
