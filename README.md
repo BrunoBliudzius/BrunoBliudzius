@@ -1,49 +1,24 @@
-Backend Developer specializing in Python, focused on building reliable, maintainable, and scalable software.
+<p align="center">
+  <img src="/assets/binary_code.jpg" alt="Banner">
+</p>
 
-Passionate about backend engineering, database design, Linux, and automation. I enjoy solving real-world problems through clean architecture and well-structured code.
+## 👋 About Me
 
-## What I Build
-- REST APIs
-- Business automation tools
-- Database-driven applications
-- Internal management systems
-- Python utilities and scripts
+I'm a backend-focused developer interested in building reliable APIs, working with databases, and understanding how software works under the hood.
 
-## Tech Stack
+I'm currently focused on strengthening my backend development skills with Python and PostgreSQL while building practical projects to improve my knowledge.
 
-### Languages
-- Python
-- SQL
-- JavaScript
+## 🛠️ Tech Stack
 
-### Backend
-- FastAPI
-- SQLite
-- PostgreSQL
+**Backend:** Python, FastAPI  
+**Database:** PostgreSQL  
+**Tools:** Git, Docker  
+**Frontend (secondary):** React, Bootstrap
 
-### Tools
-- Git
-- GitHub
-- Linux
+## 🎯 Goals
 
-## Current Focus
-
-- Building production-quality backend projects
-- Designing relational databases
-- Writing clean and testable Python code
-- Building production-ready backend systems
-  
-## Featured Projects
-- 
-
-## Exploring
-
-- Docker
-- CI/CD
-- Advanced PostgreSQL
-- System Design
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/bruno-bliudzius/)
-- Email: brunosilvabliu@gmail.com
+improve my backend skills
+Deepen my knowledge of PostgreSQL and database design
+understanding of Data Structures & Algorithms
+Learn more about software architecture and scalable systems
+Build practical and well-structured backend projects
