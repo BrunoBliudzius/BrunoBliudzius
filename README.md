@@ -15,6 +15,7 @@
 I'm a backend-focused developer interested in building reliable APIs, working with databases, and understanding how software works under the hood.
 
 I'm currently focused on strengthening my backend development skills with Python and PostgreSQL while building practical projects to improve my knowledge.
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -36,11 +37,12 @@ I'm currently focused on strengthening my backend development skills with Python
   <img src="https://skillicons.dev/icons?i=git,docker,linux" />
 </p>
 
-### Frontend
+### Frontend (Secundary)
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,bootstrap" />
 </p>
+<br>
 
 ## 🎯 Goals
 
@@ -49,12 +51,14 @@ I'm currently focused on strengthening my backend development skills with Python
 - Strengthen my understanding of Data Structures & Algorithms
 - Learn more about software architecture and scalable systems
 - Build practical and well-structured backend projects
+<br>
 
 ## 🚀 Projects
 
 Most of my projects focus on backend development, APIs, databases, and software engineering fundamentals.
 
 Check out my pinned repositories below to see what I'm currently building.
+<br>
 
 ## 🐍 Contributions
 
