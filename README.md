@@ -53,8 +53,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/BrunoBliudzius/BrunoBliudzius/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/BrunoBliudzius/BrunoBliudzius/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/BrunoBliudzius/BrunoBliudzius/trophy-output/trophy.svg?theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=BrunoBliudzius&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
